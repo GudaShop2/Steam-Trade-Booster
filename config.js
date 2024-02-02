@@ -10,18 +10,18 @@
 
 module.exports = {
     account1: {
-        shared_secret: "randomStringOfChars418=",
-        identity_secret: "randomStringOfChars21w=",
-        username: "Robbie",
-        password: "Password",
-        tradelink: "https://steamcommunity.com/tradeoffer/new/?partner=202877252&token=04S9nN_6"
+        shared_secret: "hQ2hdVA1vuRmt66xRjsJiRi9Xok=",
+        identity_secret: "fW4o3lVLVhkgfFUVLqzAFPeKX2Q=",
+        username: "byguda",
+        password: "GudaGuda16",
+        tradelink: "https://steamcommunity.com/tradeoffer/new/?partner=1122343108&token=gDB-aILf"
     },
     account2: {
-        shared_secret: "randomStringOfChars418=",
-        identity_secret: "randomStringOfChars21w=",
-        username: "Robbie",
-        password: "Password",
-        tradelink: "https://steamcommunity.com/tradeoffer/new/?partner=202877252&token=04S9nN_6"
+        shared_secret: "qvx2qeDVHTiGPQQyAB0xrckvLZM=",
+        identity_secret: "kH4JoYLNOlj4HXNX+jFgcDYsFq8=",
+        username: "botguda",
+        password: "Axvrebo123",
+        tradelink: "https://steamcommunity.com/tradeoffer/new/?partner=1049032824&token=jKQfW5FG"
     },
-    gameCode : 559650,
+    gameCode : 570,
 }
